@@ -1,0 +1,7 @@
+{
+  "name": "Tele1",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
